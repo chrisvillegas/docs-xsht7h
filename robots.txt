@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9gk2q3.surasoatenlineas.com/sitemap.xml
